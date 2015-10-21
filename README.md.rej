@@ -1,3 +1,7 @@
-diff a/README.md b/README.md	(rejected hunks)
-@@ -0,0 +1 @@
-+# harpreet
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a=12,b=10,c=0;
+c=a+b;
+}
